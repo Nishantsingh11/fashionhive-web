@@ -1,4 +1,4 @@
-import TestimonialSlider from "../components/testimonial-slider"
+import TestimonialSlider from "../../components/sections/testimonial-slider"
 export default function Home() {
   // Sample testimonial data
   const testimonials = [
