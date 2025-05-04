@@ -1,5 +1,5 @@
-import Navigation from "@/components/layout/Navigation"
-import { Hero } from "@/components/sections/Hero"
+import Navigation from "@/src/components/layout/Navigation"
+import { Hero } from "@/src/components/sections/Hero"
 
 
 export default function Home() {

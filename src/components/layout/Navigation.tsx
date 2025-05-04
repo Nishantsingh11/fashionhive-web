@@ -1,6 +1,6 @@
 'use client'
 import React, { useState } from 'react';
-import { Button } from '@/components/ui/button';
+import { Button } from '@/src/components/ui/button';
 import { DownloadIcon, Menu, X } from 'lucide-react';
 
 const Navigation = () => {
