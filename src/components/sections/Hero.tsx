@@ -62,7 +62,7 @@ export function Hero() {
         </div>
         <div className="relative flex justify-center">
           <Image
-            src="/images/app-mockup.png"
+            src="/images/mobile_mockup.png"
             alt="FashionHive App"
             width={300}
             height={600}
